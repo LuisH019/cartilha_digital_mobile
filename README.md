@@ -23,16 +23,6 @@ flutter doctor
 ```
 This command checks your environment and shows missing dependencies for your platform (like Android Studio, Xcode, etc.). Follow the instructions to resolve any issues.
 
-### 4. Clone and Run the Project
-
-```sh
-git clone https://github.com/LuisH019/cartilha_digital_mobile.git
-cd cartilha_digital_mobile
-flutter pub get
-flutter run
-```
-You can use `flutter run` to launch the app on a connected device, emulator, or simulator.
-
 ---
 
 ## Project Information
@@ -142,6 +132,3 @@ Feel free to fork, clone, and contribute via pull requests or issues.
 
 ---
 
-## License
-
-See `LICENSE` file for details.
